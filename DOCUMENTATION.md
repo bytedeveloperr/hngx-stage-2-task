@@ -52,3 +52,7 @@ Simple REST Api that exposes CRUD endpoints to work with a `Person` resource. Th
 - Method: DELETE
 - Endpoint: `/api/:id`. e.g `/api/1` or even with the person's name `/api/Yusuf`
 - Request Body: Empty
+
+
+### DB Diagram
+![DB Diagram](dbmd.png)
