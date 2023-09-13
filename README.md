@@ -40,7 +40,7 @@ go run .
 #### Resources
 
 ##### Person
-A struct that represent an individual person. It has two fields `name` and `id`. `name` is of type string while `id` is an integer.
+A struct that represent an individual person. It has two fields `name` and `id`. `name` is of type string while `id` is either a string or integer.
 
 #### API Endpoints
 
