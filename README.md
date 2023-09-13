@@ -49,3 +49,6 @@ A struct that represent an individual person. It has two fields `name` and `id`.
 - `GET /api/:userid` returns the user with the `userid` in the request param
 - `PUT /api/:userid` updates the user with the `userid` in the request param
 - `DELETE /api/:userid` deletes the user with the `userid` in the request param
+
+#### DB Diagram
+![DB Diagram](dbmd.png)
